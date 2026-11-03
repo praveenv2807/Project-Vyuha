@@ -5,7 +5,7 @@ import {
   MapContainer,
   TileLayer,
   Marker,
-  Popup,
+  Popup
   Polyline,
   useMap,
 } from "react-leaflet";
